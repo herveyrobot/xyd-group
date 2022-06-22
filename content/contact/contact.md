@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
+  email: xuyida@hkbu.edu.hk
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
@@ -54,4 +54,4 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+As an Associate Professor and Director of Industry Analytics and Visualisation, and the creator of at Faculty of Engineering & IT's DataLounge initiative, I am constantly navigating between the demands of developing world-renowned machine learning research and finding practical applications in real industry scenarios. This sees me managing a team of 25 academics, Postdoc, PhD students and engineers; applying their minds and talents to an array of industry projects for government and businesses. Aside from my duties as Industry director, I also publish a series of Statistics, Probability and Machine Learning (including Deep Learning) courses for PhD students and ML practitioners around the world. I recorded the world's most popular Mandarin-speaking machine learning research MOOCS in Youku and Youtube. I published many scholarly papers, some of which were co-authored with world's top ten most influential machine learning researchers.
